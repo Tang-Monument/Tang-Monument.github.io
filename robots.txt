@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tang-monument.github.io/sitemap.xml
